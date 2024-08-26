@@ -5,6 +5,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 <details open>
 <summary>MÓDULO 02</summary>
 
+*******
 
 ***HARD SKILLS:***
   - Funções;
@@ -18,7 +19,8 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Currículo e Carta de Apresentação;
   - Linkedin: Primeiros Passos;
 
-  
+*******
+
 **O que já sei sobre os assuntos:**
 * *Hard Skills:*
   - Funções são utilitários que realizam tarefas especificas dentro de um código;
@@ -31,7 +33,9 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Gestão de tempo são formas encontradas para auxiliar a organização referente ao tempo de forma produtiva;
   - Currículo e carta de apresentação é um documento formal onde ontém suas informações profissionais;
   - Linkedin é uma rede social com foco profissional onde pode-se interagir com outros profissionais de diversas áreas, assim como empresas. Na plataforma também funciona como um currículo, onde pode ser         encontradas vagas de emprego nacionais ou internacionais;
-  
+
+*******
+
 **<b>O que quero aprender sobre os assuntos:</b>**
 * *Hard Skills:*
   - Como encontrar, buscar e incluir funções nos meus códigos de forma que fiquem mais diretos e simples de entender;
@@ -44,6 +48,8 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Aprender como gerir meu tempo de maneira que ajude a evitar a procastinação;
   - Aprender como montar um currículo simples e direto, como me apresentar e montar informações sobre mim;
   - Como potencioalizar meu linkedin para que chame a atenção de alguma empresa;
+
+*******
 
 **<b>O que aprendi sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -63,6 +69,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 <details open>
 <summary>MÓDULO 03</summary>
 
+*******
 
 ***HARD SKILLS:***
   - Testes Automatizados;
@@ -82,6 +89,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Autoconhecimento e Inteligência emocional;
   - Tendências em Tecnologia;
 
+*******
   
 **<b>O que já sei sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -92,6 +100,8 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
   - aa
+
+*******
   
 **<b>O que quero aprender sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -102,6 +112,8 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
   - aa
+
+*******
     
 **<b>O que aprendi sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -120,6 +132,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 <details open>
 <summary>MÓDULO 04</summary>
 
+*******
 
 ***HARD SKILLS:***
   - Introdução ao Docker e Docker Compose;
@@ -139,6 +152,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Diversidade e Inclusão em Tecnologia;
   - Marca Pessoal e Plano de Carreira;
 
+*******
   
 **<b>O que já sei sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -149,6 +163,8 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
   - aa
+
+*******
   
 **<b>O que quero aprender sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -159,6 +175,8 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
   - aa
+
+*******
     
 **<b>O que aprendi sobre os assuntos:</b>**
 * *Hard Skills:*
