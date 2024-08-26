@@ -5,6 +5,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 <details open>
 <summary>MÓDULO 02</summary>
 
+
 ***HARD SKILLS:***
   - Funções;
   - Tipos de Dados II;
@@ -16,8 +17,9 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Gestão de Tempo;
   - Currículo e Carta de Apresentação;
   - Linkedin: Primeiros Passos;
+
   
-**<b>O que já sei sobre os assuntos:</b>**
+**O que já sei sobre os assuntos:**
 * *Hard Skills:*
   - Funções são utilitários que realizam tarefas especificas dentro de um código;
   - Tipos de Dados é uma ferramenta, dentro do código, que serve para armazenar informações;
@@ -51,7 +53,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Métodos de Strings, manipulação de Strings em JavaScript, métodos nativos do JavaScript para manipulação de Strings, exemplos de métodos úteis: toUpperCase(), toLowerCase() e trim(). Comportamento da         linguagem JavaScript e importância de compreender o JavaScript;
   - Métodos de manipulação em Strings, exemplo: toUpperCase(), toLowerCase(), charAt(). Métodos de manipulação em Arrays, exemplo: push(), pop(), splice(). Introdução às Funções Trigonométricas, definição e      conceitos básicos dos senos e cossenos, definição, características e importância na trigonometria, Graus e Radianos, conversão e relação entre essas duas unidades de medida de ângulos, Funções                Trigonométricas no Círculo Unitário, relação entre ângulos, graus, radianos e funções trigonométricas no círculo unitário, Propriedades e Identidades Trigonométricas, demonstração e prova de algumas          propriedades e identidades trigonométricas e resolução de Problemas Práticos;
     
-*Soft Skills:*
+* *Soft Skills:*
   - Em gestão de tempo aprendi que posso usar ferramentas de organização que podem me ajudar a organizar minha atividades e tarefas no estudo, me ajudando a lembrar e direcionar no que preciso fazer.
   - Em currículo e carta de apresentação aprendi a como montar um documento simples e focado no meu objetivo, aprendi como um recrutador pensa, associações que a empresas fazem entre sua cultura e os perfis      profissionais, fazer minha apresentação, processos de candidatura em diversas plataformas e em como posso usar palavras chaves para conseguir participar de processos seletivos e incluir soft skills e sua     importância no perfil profissional;
   - Aprendi como funciona as estratégias e algortimos do linkedin para ter mais chances de alcançar pessoas/recrutadores e vagas, técnicas e dicas de como melhorar o curriculo para ser mais direto utilizando     palavras chaves e termos simples de compreenção;
@@ -60,6 +62,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 
 <details open>
 <summary>MÓDULO 03</summary>
+
 
 ***HARD SKILLS:***
   - Testes Automatizados;
@@ -78,6 +81,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Pesquisa e Leitura de Documentações;
   - Autoconhecimento e Inteligência emocional;
   - Tendências em Tecnologia;
+
   
 **<b>O que já sei sobre os assuntos:</b>**
 * *Hard Skills:*
@@ -116,6 +120,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 <details open>
 <summary>MÓDULO 04</summary>
 
+
 ***HARD SKILLS:***
   - Introdução ao Docker e Docker Compose;
   - Introdução;
@@ -133,6 +138,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Metodologias Ágeis;
   - Diversidade e Inclusão em Tecnologia;
   - Marca Pessoal e Plano de Carreira;
+
   
 **<b>O que já sei sobre os assuntos:</b>**
 * *Hard Skills:*
