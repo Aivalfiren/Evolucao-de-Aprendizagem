@@ -1,6 +1,7 @@
 # Evolução de Aprendizagem - BackEnd
 Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 
+<details>
 <summary>MÓDULO 02<summary>
 <br>
 
@@ -52,7 +53,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Em currículo e carta de apresentação aprendi a como montar um documento simples e focado no meu objetivo, aprendi como um recrutador pensa, associações que a empresas fazem entre sua cultura e os perfis      profissionais, fazer minha apresentação, processos de candidatura em diversas plataformas e em como posso usar palavras chaves para conseguir participar de processos seletivos e incluir soft skills e sua     importância no perfil profissional;
   - Aprendi como funciona as estratégias e algortimos do linkedin para ter mais chances de alcançar pessoas/recrutadores e vagas, técnicas e dicas de como melhorar o curriculo para ser mais direto utilizando     palavras chaves e termos simples de compreenção;
 
-
+<details>
 <summary>MÓDULO 03<summary>
 <br>
 
@@ -101,6 +102,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
 
+<details>
 <summary>MÓDULO 04<summary>
 <br>
 
