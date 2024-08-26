@@ -2,6 +2,7 @@
 Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 
 <summary>MÓDULO 02<summary>
+<br>
 
 ## HARD SKILLS:
   - Funções;
@@ -53,6 +54,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 
 
 <summary>MÓDULO 03<summary>
+<br>
 
 ## HARD SKILLS:
   - Testes Automatizados;
@@ -74,32 +76,33 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   
 <b>O que já sei sobre os assuntos:</b>
 - Hard Skills:
-  - 
-  - 
+  - aa
+  - aa
 - Soft Skills:
-  - 
-  - 
-  - 
+  - aa
+  - aa
+  - aa
   
 <b>O que quero aprender sobre os assuntos:</b>
 - Hard Skills:
-  - 
-  - 
+  - aa
+  - aa
 - Soft Skills:
-  - 
-  - 
-  - 
+  - aa
+  - aa
+  - aa
     
 <b>O que aprendi sobre os assuntos:</b>
 - Hard Skills:
-  - 
-  - 
+  - aa
+  - aa
 - Soft Skills:
-  - 
-  - 
-  - 
+  - aa
+  - aa
+  - aa
 
 <summary>MÓDULO 04<summary>
+<br>
 
 ## HARD SKILLS:
   - Introdução ao Docker e Docker Compose;
@@ -121,27 +124,27 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   
 <b>O que já sei sobre os assuntos:</b>
 - Hard Skills:
-  - 
-  - 
+  - aa
+  - aa
 - Soft Skills:
-  - 
-  - 
-  - 
+  - aa
+  - aa
+  - aa
   
 <b>O que quero aprender sobre os assuntos:</b>
 - Hard Skills:
-  - 
-  - 
+  - aa
+  - aa
 - Soft Skills:
-  - 
-  - 
-  - 
+  - aa
+  - aa
+  - aa
     
 <b>O que aprendi sobre os assuntos:</b>
 - Hard Skills:
-  - 
-  - 
+  - aa
+  - aa
 - Soft Skills:
-  - 
-  - 
-  - 
+  - aa
+  - aa
+  - aa
