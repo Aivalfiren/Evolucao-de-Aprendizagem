@@ -5,14 +5,14 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
 <summary>MÓDULO 02<summary>
 <br>
 
-## HARD SKILLS:
+- HARD SKILLS:
   - Funções;
   - Tipos de Dados II;
   - Tipos Utilitários;
   - Métodos de Strings;
   - Métodos de Arrays: I, II e III;
 
-## SOFT SKILLS:
+- SOFT SKILLS:
   - Gestão de Tempo;
   - Currículo e Carta de Apresentação;
   - Linkedin: Primeiros Passos;
@@ -52,13 +52,14 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Em gestão de tempo aprendi que posso usar ferramentas de organização que podem me ajudar a organizar minha atividades e tarefas no estudo, me ajudando a lembrar e direcionar no que preciso fazer.
   - Em currículo e carta de apresentação aprendi a como montar um documento simples e focado no meu objetivo, aprendi como um recrutador pensa, associações que a empresas fazem entre sua cultura e os perfis      profissionais, fazer minha apresentação, processos de candidatura em diversas plataformas e em como posso usar palavras chaves para conseguir participar de processos seletivos e incluir soft skills e sua     importância no perfil profissional;
   - Aprendi como funciona as estratégias e algortimos do linkedin para ter mais chances de alcançar pessoas/recrutadores e vagas, técnicas e dicas de como melhorar o curriculo para ser mais direto utilizando     palavras chaves e termos simples de compreenção;
+
 <details>
 
 <details>
 <summary>MÓDULO 03<summary>
 <br>
 
-## HARD SKILLS:
+- HARD SKILLS:
   - Testes Automatizados;
   - Primeiro Servidor;
   - Rotas, Intermediarios e Controladores;
@@ -69,7 +70,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - API c/ Assincronismo e Testes;
   - Tratamentos de Erros c/ Herança e Polifornismo;
 
-## SOFT SKILLS:
+- SOFT SKILLS:
   - Git Hub;
   - Comunicação;
   - Pesquisa e Leitura de Documentações;
@@ -102,13 +103,14 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
   - aa
+
 <details>
   
 <details>
 <summary>MÓDULO 04<summary>
 <br>
 
-## HARD SKILLS:
+- HARD SKILLS:
   - Introdução ao Docker e Docker Compose;
   - Introdução;
   - Consultas SQL;
@@ -121,7 +123,7 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Git e Fluxo de Trabalho em Equipes;
   - ORM - "Object - Relational Mapping";
 
-## SOFT SKILLS:
+- SOFT SKILLS:
   - Metodologias Ágeis;
   - Diversidade e Inclusão em Tecnologia;
   - Marca Pessoal e Plano de Carreira;
@@ -152,4 +154,5 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - aa
   - aa
   - aa
+    
 <details>
