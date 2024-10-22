@@ -174,12 +174,65 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   - Autenticação e Criptografia;
   - Integração com API de Terceitos;
   - Git e Fluxo de Trabalho em Equipes;
-  - ORM - "Object - Relational Mapping";
 
 ***SOFT SKILLS:***
   - Metodologias Ágeis;
   - Diversidade e Inclusão em Tecnologia;
   - Marca Pessoal e Plano de Carreira;
+
+*******
+  
+**<b>O que já sei sobre os assuntos:</b>**
+* *Hard Skills:*
+  - aa
+  - aa
+    
+* *Soft Skills:*
+  - aa
+  - aa
+  - aa
+
+*******
+  
+**<b>O que quero aprender sobre os assuntos:</b>**
+* *Hard Skills:*
+  - aa
+  - aa
+    
+* *Soft Skills:*
+  - aa
+  - aa
+  - aa
+
+*******
+    
+**<b>O que aprendi sobre os assuntos:</b>**
+* *Hard Skills:*
+  - aa
+  - aa
+    
+* *Soft Skills:*
+  - aa
+  - aa
+  - aa
+ 
+</details>
+  
+<details open>
+<summary>MÓDULO 05</summary>
+
+*******
+
+***HARD SKILLS:***
+  - ORM I e II;
+  - Introdução ao NextJS;
+  - Deploy;
+  - Envio de Email;
+  - Upload de Arquivos.
+
+***SOFT SKILLS:***
+  - Dominando o LinkedIn: Cresça e se conecte;
+  - Montando Portifólio do Zero.
 
 *******
   
