@@ -93,39 +93,68 @@ Refere-se a aprendizagem de conteúdos no M02, M03 e M04.
   
 **<b>O que já sei sobre os assuntos:</b>**
 * *Hard Skills:*
-  - aa
-  - aa
+  - Compreendo a importância dos testes automatizados na garantia da qualidade do software;
+  - Conheço os conceitos básicos de servidores e suas funções em hospedar aplicações web;
+  - Organização de código;
+  - Conceitos básicos e teóricos sobre ApiRest;
+  - Aprendi no modulo 1 o conceito e introdução a objetos, e sua estruta inicial;
+  - Consigo compreender a relação de orientação a objetos no desenvolvimento de API;
+  - Compreendo que uma programação assícrona não segue um padrão linear cronológicamente;
+  - Conheço a importância de implementar APIs de forma assíncrona para maior eficiência;
+  - Entendo como herança e polimorfismo podem ser usados para tratar erros de maneira organizada.
     
 * *Soft Skills:*
-  - aa
-  - aa
-  - aa
+  - Familiaridade com os conceitos de repositórios, commits, branches e pull requests;
+  - Reconheço a importância da comunicação clara e eficaz em equipes de trabalho;
+  - Compreendo como encontrar informações em documentações técnicas e utilizar referências online;
+  - Reconheço a importância do autoconhecimento e da inteligência emocional na dinâmica de trabalho;
+  - Estou ciente de algumas tendências atuais, como inteligência artificial, desenvolvimento em nuvem e automação.
 
 *******
   
 **<b>O que quero aprender sobre os assuntos:</b>**
 * *Hard Skills:*
-  - aa
-  - aa
+  - Melhorar a abordagem em testes de unidade e integração, explorando mais sobre TDD (Desenvolvimento Orientado a Testes);
+  - Configuração e gestão de servidores;
+  - Estruturas mais complexas e organizadas;
+  - Melhores práticas e aprofudar a prática em APIs;
+  - Padrões de design orientados a objetos e como aplicá-los em projetos reais;
+  - Integrar melhor as práticas de OOP na criação de APIs mais robustas;
+  - Práticas avançadas de gerenciamento de operações assíncronas e manipulação de arquivos em diferentes linguagens;
+  - Como escrever testes eficazes para APIs assíncronas e gerenciar o fluxo de dados;
+  - Estratégias para implementar um sistema de tratamento de erros mais robusto e eficiente.
     
 * *Soft Skills:*
-  - aa
-  - aa
-  - aa
+  - Melhorar minhas habilidades em gerenciamento de branches e resolução de conflitos e demais fucionalidades que o Git Hub tem a oferecer;
+  - Desenvolver habilidades de comunicação interpessoal e escrita técnica;
+  - Estratégias para ler e entender documentações mais complexas de forma eficiente;
+  - Técnicas para melhorar meu controle emocional e a capacidade de empatia em ambientes colaborativos;
+  - Explorar mais profundamente como essas tendências impactam o mercado e as práticas de desenvolvimento.
 
 *******
     
 **<b>O que aprendi sobre os assuntos:</b>**
 * *Hard Skills:*
-  - aa
-  - aa
+  - Testes automatizados ajudam a identificar falhas rapidamente e reduzem o tempo de manutenção. Métodos para implementar testes automatizados usando VS Code;
+  - Um servidor pode ser local ou remoto, e a configuração inicial é crucial para o funcionamento da aplicação. Vimos e aplicamos exemplos de sevidores Node.js, Fastify e Express;
+  - O que são requisições e exemplos práticos de como funcionam. Rotas definem como as requisições são direcionadas, e intermediários podem adicionar funcionalidade sem modificar a lógica principal;
+  - APIs REST permitem a comunicação entre diferentes sistemas de forma eficiente e escalável. Diferentes funções de uma ApiRest: GET para obter dados, POST para adicionar novos dados, PUT para atualizar         dados existentes, DELETE para remover dados. Status code: 200 (sucesso), 404 (não encontrado), 500 (erro do servidor), etc;
+  - A OOP facilita a manutenção e a escalabilidade do código. Conceito de classes e objetos, encapsulamento, herança e polimorfismo. Declaração de classes, criação de objetos, uso de métodos e propriedades       e como escrever código limpo e eficiente com a orientação a objetos;
+  - O uso de OOP em APIs permite uma estrutura de código mais organizada e reutilizável. Imaplementações dos métodos de requisição, testes dos cósdigos utilizando as requisições e design de códigos orientado     a objetos complexos;
+  - Assincronismo melhora a performance. Exemplos práticos do uso de Async e await em uma API;
+  - A combinação de assincronismo com testes é essencial para garantir a funcionalidade e a performance da API. Compreenção do uso dos Promises. Criando e implementando TDD;
+  - Um sistema bem estruturado de tratamento de erros pode prevenir falhas e melhorar a usabilidade da aplicação. Exploração de conceitos avançados de Orientação a Objetos como interfaces, herança e         
+    polimorfismo. Tratamento de erros no Express utilizando o try catch.
     
 * *Soft Skills:*
-  - aa
-  - aa
-  - aa
+  - GitHub é uma ferramenta essencial para colaboração em projetos de desenvolvimento e versionamento de código;
+  - Uma boa comunicação melhora a colaboração e reduz mal-entendidos em projetos;
+  - A habilidade de pesquisar e interpretar documentações é fundamental para resolver problemas e implementar soluções e principalmente, aprender a leitura de documentação é um ponto positivo para o       
+    profissional de TI.
+  - A inteligência emocional é crucial para a liderança e para lidar com conflitos de forma construtiva. Principalmente no controle em ambientes de pressão. 
+  - Estar atualizado sobre tendências tecnológicas é vital para se manter relevante no campo e adaptar-se às mudanças.
 
-- [ ] Finalizar
+- [X] Finalizar
 
 </details>
   
